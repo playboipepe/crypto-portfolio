@@ -1,0 +1,16 @@
+[
+    {
+      "coinName": "Bitcoin",
+      "amount": 0.5,
+      "coinAddress": "1BoatSLRHtKNngkdXEeobR76b53LETtpyT",
+      "blockchain": "Bitcoin"
+    },
+    {
+      "coinName": "Ethereum",
+      "amount": 2,
+      "coinAddress": "0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe",
+      "blockchain": "Ethereum"
+    }
+    
+  ]
+  
